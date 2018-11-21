@@ -1,0 +1,5 @@
+Tools to be downloaded
+1. cf-cli-installer_6.40.1_winx64
+2. consul_1.4.0_windows_amd64
+3. DockerToolbox
+4. Install MySQL
